@@ -8,9 +8,10 @@ Each team member implements one or more functions.
 ## Functions
 
 ### ADD
+
 ```
 function add(a, b):
-    // TODO: implement
+   
 ```
 
 ### SUBTRACT
@@ -22,3 +23,12 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
+
+### MULTIPLY
+```
+function Multiply(a, b):
+    result = 0
+    repeat a times:
+        result = result + b
+    return result
+``` 
