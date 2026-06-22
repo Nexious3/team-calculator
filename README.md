@@ -10,7 +10,8 @@ Each team member implements one or more functions.
 ### ADD
 ```
 function add(a, b):
-    // TODO: implement
+    result = add(3, 5)
+print(result)  # 8
 ```
 
 ### SUBTRACT
@@ -22,3 +23,4 @@ function subtract(a, b):
 ---
 
 <!-- Other team members: add your functions below this line -->
+
