@@ -33,3 +33,9 @@ function Multiply(a, b):
         result = result + b
     return result
 ``` 
+### DEVIDE
+```
+function DEVIDE(a, b):
+    def divide(a, b):
+    return a / b
+```
