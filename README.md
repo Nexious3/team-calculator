@@ -11,7 +11,7 @@ Each team member implements one or more functions.
 
 ```
 function add(a, b):
-   
+return a + b   
 ```
 
 ### SUBTRACT
