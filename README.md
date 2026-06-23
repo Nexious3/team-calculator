@@ -17,7 +17,6 @@ function add(a, b):
 ### SUBTRACT
 ```
 function subtract(a, b):
-    def subtract(a, b):
     return a - b
 ```
 
@@ -36,6 +35,5 @@ function Multiply(a, b):
 ### DEVIDE
 ```
 function DEVIDE(a, b):
-    def divide(a, b):
     return a / b
 ```
