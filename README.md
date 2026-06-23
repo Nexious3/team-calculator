@@ -17,7 +17,8 @@ function add(a, b):
 ### SUBTRACT
 ```
 function subtract(a, b):
-    // TODO: implement
+    def subtract(a, b):
+    return a - b
 ```
 
 ---
